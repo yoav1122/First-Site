@@ -1,0 +1,13 @@
+body{
+  background-color: #8BBEE0;
+}
+
+.profilepic{
+  width: 100px;
+  border-radius: 50%;
+  border: 5px grey solid;
+  margin: auto;
+}
+h1{
+  text-align: center;
+}
